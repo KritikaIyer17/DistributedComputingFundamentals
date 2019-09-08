@@ -4,6 +4,9 @@ Prajwal Santosh,
 Amith Tekupalli,
 Sowmya M
 
+DockerHub Repositry-
+https://cloud.docker.com/u/kritika1708/repository/docker/kritika1708/nginx
+
 # DistributedComputingFundamentals
 
 Repository for PESU I/O Slot 7 course Fundamentals of Distributed and Cloud Computing. Will contain examples for the Distributed Computing component of said course.
