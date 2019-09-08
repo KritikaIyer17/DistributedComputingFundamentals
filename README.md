@@ -1,7 +1,7 @@
 TEAM-10
-Kritika Iyer
-Prajwal Santosh
-Amith Tekupalli
+Kritika Iyer,
+Prajwal Santosh,
+Amith Tekupalli,
 Sowmya M
 
 # DistributedComputingFundamentals
