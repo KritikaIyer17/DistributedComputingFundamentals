@@ -1,15 +1,9 @@
+#Commands used-
 #Pulling NGINX image
 docker pull nginx
 
 #running the nginx image and assigning a name to the container
 docker run -it -p 80:80 --name nginx1 nginx
-
-#OR, to run in detached mode
-docker run -d -p 80:80 --name nginx1 nginx
-
-#optional command: curl localhost:80 in a separate terminal
-
-#open a separate terminal tab and run these commands
 
 #start the container, if needed
 docker start nginx1
