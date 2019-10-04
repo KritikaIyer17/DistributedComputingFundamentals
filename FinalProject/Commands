@@ -1,0 +1,10 @@
+$ mkdir nginx_kube_example
+$ cd nginx_kube_example
+$ gedit nginx_pod.yaml
+$ kubectl create -f nginx_pod.yaml
+$ kubectl get pods
+$ kubectl get rc
+$ sudo docker ps
+$ gedit nginx_service.yaml
+$ kubectl create -f nginx_service.yaml
+$ kubectl get services
